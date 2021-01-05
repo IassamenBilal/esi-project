@@ -1,0 +1,53 @@
+[
+  {
+    "id": 0,
+    "niveauDeMaintenance": "1",
+    "repeterChaque": "2",
+    "periode": "mois",
+    "repeterEn": {
+      "dimanche": true,
+      "lundi": false,
+      "mardi": false,
+      "mercredi": false,
+      "jeudi": false
+    },
+    "piece": "piece",
+    "description": "desc",
+    "datedebut": "2020/06/25",
+    "datefin": "2020/06/28"
+  },
+  {
+    "id": 1,
+    "niveauDeMaintenance": "1",
+    "repeterChaque": "2",
+    "periode": "mois",
+    "repeterEn": {
+      "dimanche": true,
+      "lundi": false,
+      "mardi": false,
+      "mercredi": false,
+      "jeudi": false
+    },
+    "piece": "piece",
+    "description": "desc",
+    "datedebut": "2020/06/25",
+    "datefin": "2020/06/28"
+  },
+  {
+    "id": 2,
+    "niveauDeMaintenance": "2",
+    "repeterChaque": "2",
+    "periode": "mois",
+    "repeterEn": {
+      "dimanche": true,
+      "lundi": false,
+      "mardi": false,
+      "mercredi": false,
+      "jeudi": false
+    },
+    "piece": "piece",
+    "description": "desc",
+    "datedebut": "2020/06/25",
+    "datefin": "2020/06/28"
+  }
+]
